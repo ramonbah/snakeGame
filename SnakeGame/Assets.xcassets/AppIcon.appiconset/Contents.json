@@ -1,0 +1,38 @@
+{
+  "images" : [
+    {
+      "filename" : "Gemini_Generated_Image_2bzdjs2bzdjs2bzd.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "Gemini_Generated_Image_b6r8zub6r8zub6r8.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "tinted"
+        }
+      ],
+      "filename" : "Gemini_Generated_Image_e579c4e579c4e579.jpeg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
