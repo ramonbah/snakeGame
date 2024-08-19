@@ -5,19 +5,19 @@ Welcome to my Snake Game! This game is developed for iOS using UIKit. It feature
 ## Game Stages
 
 ### Casual Stage
-In this introductory mode, you'll control a single snake that eats simple fruits. This stage is designed for beginners to get acquainted with the gameplay mechanics. Your goal here is to focus on eating fruits and growing your snake.
+In this mode, you’ll control a single snake and pick flowers. It’s a great place to start if you’re new to the game. Just focus on picking flowers and growing your snake!
 
 ### Easy Stage
-The Easy Stage introduces a bit more complexity. Shadow snakes will appear when you eat fruits, adding a new twist to your gameplay. These shadow snakes are intended to help you practice and refine your skills.
+Ready for a bit more challenge? Friendly snakes will appear when you pick up mushrooms. These Friendly snakes will disappear when they meet the wall.
 
 ### Normal Stage
-Things heat up in the Normal Stage! Fruits will start moving around, and bombs will appear when you eat fruits. You’ll need to avoid these bombs while trying to catch the moving fruits to keep your snake growing.
+Things get more interesting! Bombs will appear when you pick up puzzle pieces. Be careful to avoid the bombs and keep your snake growing by catching the small animal and picking up puzzle pieces!
 
 ### Hard Stage
-Get ready for a challenge in the Hard Stage! Your snake can now pass through walls, and you’ll encounter larger moving fruits and more frequent bombs. Watch out for bombs thrown from outside the screen—they’ll keep you on your toes!
+Step up for an exciting challenge! Your snake can pass through walls, and you’ll face larger disappearing animals and more frequent bombs. Keep an eye out for bombs thrown from outside the screen—they’ll keep you on your toes!
 
 ### Extreme Stage
-The Extreme Stage is the ultimate test! It combines all the toughest elements: shadow snakes, moving fruits, and relentless thrown bombs. This stage is designed for the best players looking for an intense and thrilling challenge.
+Are you ready for the ultimate test? The Extreme Stage combines all the toughest elements. Only the best can survive this intense challenge!
 
 ## Future Improvements
 
